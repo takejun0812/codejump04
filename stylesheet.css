@@ -14,7 +14,7 @@ body {
     font-style: normal;
     max-width: 1000px;
     margin: 0 auto;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 ul {
@@ -179,6 +179,10 @@ main input {
     background-color: #4b4b4b;
     color: white;
     margin: 15px 0 30px 0;
+}
+
+main input:hover {
+    opacity: 0.5;
 }
 
 .main-size {

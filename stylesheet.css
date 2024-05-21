@@ -183,6 +183,7 @@ main input {
 
 main input:hover {
     opacity: 0.5;
+    cursor : pointer;
 }
 
 .main-size {

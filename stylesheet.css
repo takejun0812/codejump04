@@ -218,6 +218,7 @@ footer {
     }
 
     .header-list ul {
+
         width: max-content;
         column-gap: 14px;
     }

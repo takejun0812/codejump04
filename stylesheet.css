@@ -228,7 +228,7 @@ footer {
     }
 
     .header-list ul {
-        padding: 0 3px;
+        padding: 0 8px;
         width: max-content;
         column-gap: 14px;
     }

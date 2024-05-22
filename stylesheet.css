@@ -52,7 +52,7 @@ header {
 .header-list {
     overflow-x: hidden;
     width: 100%;
-    /* max-width: 800px; */
+    max-width: 800px;
     padding-bottom: 26px;
     margin: 0 auto;
     justify-content: space-between;
@@ -221,14 +221,14 @@ footer {
     }
 
     .header-list {
-        margin-left: 5px;
+        /* margin-left: 0px; */
         overflow-x: auto;
         column-gap: 14px;
         padding-bottom: 16px;
     }
 
     .header-list ul {
-
+        padding: 0 3px;
         width: max-content;
         column-gap: 14px;
     }
